@@ -1,0 +1,20 @@
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+.movie_head i {
+    float: right;
+} 
+.new {
+    margin-bottom: 30px;
+} 
+.contact iframe {
+    width: 100%;
+}  
